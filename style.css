@@ -1,0 +1,35 @@
+
+.head-section{
+    background-color: #2f3d46;
+ }
+.fa-github{
+    color: white;
+    font-size : 60px !important;
+}
+.head-section h1{
+    color: white;  
+}
+.main-section{
+    background-color: #cad2c5;
+}
+.bg-grey{
+    background-color: #2f3d46 !important; 
+}
+.borderround{
+    border-radius: 10px;
+    min-height: 50% !important;
+}
+.btnsearch{
+    max-width: 100% !important;
+    color: white !important;
+}
+.pl{
+    padding-left: 50px !important;
+}
+.height{
+    min-height: 120px !important;
+}
+.leftcont{
+    min-height: 100px !important;
+    
+}
